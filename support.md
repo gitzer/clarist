@@ -31,7 +31,7 @@ You can create up to 5 lists during the 14-day free trial with full access to al
 Go to Settings within the app — your purchase will be restored automatically through the App Store if you're signed in with the same Apple ID.
 
 ### How does the grocery shopping feature work?
-Create a grocery list, then start a shopping trip. The app learns your route through the store over time and automatically sorts your list to match your shopping path. The more you shop, the smarter the sorting becomes.
+Create a grocery master list for each store that you frequently visit, then start a shopping trip. The app learns your route through each store over time and automatically sorts your list to match your shopping path. The more you shop, the smarter the sorting becomes. At the end of each trip, all items you were not able to get remain checked for the next trip.
 
 ### Can I use clarist on my iPad?
 Yes! clarist is a universal app that works on both iPhone and iPad, with a split-view layout optimized for larger screens.
