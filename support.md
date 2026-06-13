@@ -9,7 +9,7 @@ Need help with clarist? We're here for you.
 
 ## Contact Us
 
-**Email:** [claristapp@gmail.com](mailto:claristapp@gmail.com)
+**Email:** [clarist.support@gmail.com](mailto:clarist.support@gmail.com)
 
 We aim to respond within 48 hours.
 
@@ -38,4 +38,4 @@ Yes! clarist is a universal app that works on both iPhone and iPad, with a split
 
 ## Feature Requests & Feedback
 
-We'd love to hear your ideas! Send feature requests and feedback to [claristapp@gmail.com](mailto:claristapp@gmail.com).
+We'd love to hear your ideas! Send feature requests and feedback to [clarist.support@gmail.com](mailto:clarist.support@gmail.com).
